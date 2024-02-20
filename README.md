@@ -1,5 +1,5 @@
 # PCJUNIOR-TOOLS
-Suite de commande écrit en Pascal (Turbo Pascal ou Free Pascal) pour le micro-ordinateur PC Junior d'IBM
+Suite de commande écrit en Pascal (Turbo Pascal) pour le micro-ordinateur PC Junior d'IBM
 
 <h2>Liste des fichiers</h2>
 
