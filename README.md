@@ -14,4 +14,8 @@ Voici la liste des différents fichiers proposés dans PCJUNIOR-TOOLS :
       <td><b>ISPCJR.PAS</b></td>
       <td>Cette commande permet de vérifier s'il s'agit d'un micro-ordinateur PC Junior.</td>
     </tr>
+    <tr>
+	    <td><b>SELSOUND.PAS</b></td>td
+	    <td>Cette commande permet de sélectionner la source de son d'un micro-ordinateur PC Junior d'IBM en utilisant la fonction «SOUND SOURCE SELECT» du BIOS.</td>
+    </tr>
 </table>
